@@ -1,0 +1,15 @@
+.inline-block{
+    display: inline-block;
+}
+
+.bmd-color{
+    background-color: dimgray;
+}
+.bmd-color-text{
+    color: black;
+    font-size: 20px;
+}
+.font-title{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
